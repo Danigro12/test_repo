@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.674,0,0,91.695,1240.97,90.808)">
+			<stop offset="0" stop-color="#61e694"/>
+			<stop offset="1" stop-color="#bbfc82"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(NaN,NaN,NaN,NaN,NaN,NaN)">
+			<stop offset="0" stop-color="#61e694"/>
+			<stop offset="1" stop-color="#bbfc82"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 111px;fill: #e4e4e4;font-weight: 400;font-family: "Montserrat-Regular", "Montserrat" } 
+		.t1 { font-size: 111px;fill: #e4e4e4;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t2 { font-size: 25px;fill: #e4e4e4;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.t3 { font-size: 24px;fill: #e4e4e4;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.s4 { fill: url(#g1) } 
+		.s5 { fill: url(#g2) } 
+	</style>
+	<text id="I love coffee. ☕" style="transform: matrix(1,0,0,1,46,444)" >
+		<tspan x="0" y="84.3" class="t0">I love coffee.</tspan><tspan  y="84.3" class="t0"> </tspan><tspan  y="84.3" class="t1">☕</tspan><tspan  y="84.3" class="t1">
+</tspan>
+	</text>
+	<text id="and bioinformatics too" style="transform: matrix(1,0,0,1,56,562)" >
+		<tspan x="0" y="18.6" class="t2">a</tspan><tspan  y="18.6" class="t2">n</tspan><tspan  y="18.6" class="t2">d</tspan><tspan  y="18.6" class="t2"> </tspan><tspan  y="18.6" class="t2">b</tspan><tspan  y="18.6" class="t2">i</tspan><tspan  y="18.6" class="t2">o</tspan><tspan  y="18.6" class="t2">i</tspan><tspan  y="18.6" class="t2">n</tspan><tspan  y="18.6" class="t2">f</tspan><tspan  y="18.6" class="t2">o</tspan><tspan  y="18.6" class="t2">r</tspan><tspan  y="18.6" class="t2">m</tspan><tspan  y="18.6" class="t2">a</tspan><tspan  y="18.6" class="t2">t</tspan><tspan  y="18.6" class="t2">i</tspan><tspan  y="18.6" class="t2">c</tspan><tspan  y="18.6" class="t2">s</tspan><tspan  y="18.6" class="t2"> </tspan><tspan  y="18.6" class="t2">t</tspan><tspan  y="18.6" class="t2">o</tspan><tspan  y="18.6" class="t2">o</tspan><tspan  y="18.6" class="t2">
+</tspan>
+	</text>
+	<text id="Bioinformatician Data Analyst St" style="transform: matrix(1,.003,-0.003,1,516.183,49.134)" >
+		<tspan x="504.4" y="17.8" class="t3">B</tspan><tspan  y="17.8" class="t3">i</tspan><tspan  y="17.8" class="t3">o</tspan><tspan  y="17.8" class="t3">i</tspan><tspan  y="17.8" class="t3">n</tspan><tspan  y="17.8" class="t3">f</tspan><tspan  y="17.8" class="t3">o</tspan><tspan  y="17.8" class="t3">r</tspan><tspan  y="17.8" class="t3">m</tspan><tspan  y="17.8" class="t3">a</tspan><tspan  y="17.8" class="t3">t</tspan><tspan  y="17.8" class="t3">i</tspan><tspan  y="17.8" class="t3">c</tspan><tspan  y="17.8" class="t3">i</tspan><tspan  y="17.8" class="t3">a</tspan><tspan  y="17.8" class="t3">n</tspan><tspan  y="17.8" class="t3">
+</tspan>
+		<tspan x="554" y="46.6" class="t3">D</tspan><tspan  y="46.6" class="t3">a</tspan><tspan  y="46.6" class="t3">t</tspan><tspan  y="46.6" class="t3">a</tspan><tspan  y="46.6" class="t3"> </tspan><tspan  y="46.6" class="t3">A</tspan><tspan  y="46.6" class="t3">n</tspan><tspan  y="46.6" class="t3">a</tspan><tspan  y="46.6" class="t3">l</tspan><tspan  y="46.6" class="t3">y</tspan><tspan  y="46.6" class="t3">s</tspan><tspan  y="46.6" class="t3">t</tspan><tspan  y="46.6" class="t3">
+</tspan>
+		<tspan x="614" y="75.4" class="t3">S</tspan><tspan  y="75.4" class="t3">t</tspan><tspan  y="75.4" class="t3">u</tspan><tspan  y="75.4" class="t3">d</tspan><tspan  y="75.4" class="t3">e</tspan><tspan  y="75.4" class="t3">n</tspan><tspan  y="75.4" class="t3">t</tspan><tspan  y="75.4" class="t3">
+</tspan>
+	</text>
+	<path id="Shape 2" class="s4" d="m1244.6 136.7h-3.6l0.1-91.7h3.5z"/>
+	<path id="Shape 3" class="s5" d=""/>
+</svg>
